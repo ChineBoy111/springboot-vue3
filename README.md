@@ -11,3 +11,4 @@
 - [Actuator 原理解析](./springboot-actuator.md)
 - [全局异常处理 解析](./笔记/springBoot_globalexception.md)
 - [JWT 解析](./笔记/JWT.md)
+- [ThreadLocal 解析](./笔记/ThreadLocal.md)
